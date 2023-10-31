@@ -1,4 +1,6 @@
 /*Write a C++ program to create class Max with data member’s num_1 and num_2. Member function are input(), display(), largest(). (* Nesting of member functions: A member function can be called by using its name inside another member function of the same class. This is known as nesting of member function.) */
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 using namespace std;
 class Max
