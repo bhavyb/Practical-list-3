@@ -1,4 +1,6 @@
 /*Write a C++ program that declares student structure with data members name, std, percentage. Take value for these data members and display it*/
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 #include <string>
 using namespace std;
