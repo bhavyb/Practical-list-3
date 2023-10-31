@@ -1,4 +1,6 @@
 /*Create class product. Data members are product_id, product_name, unit_price. Member functions are getData(). [Getting input from user and assigning values to data members. ] and putData() [Display the product information.]. Call both member function for two objects*/
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 #include <string>
 using namespace std;
