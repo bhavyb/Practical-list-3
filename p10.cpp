@@ -1,4 +1,6 @@
 /*Write a C++ program using class to find maximum number from three numbers. */
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 using namespace std;
 class Max
