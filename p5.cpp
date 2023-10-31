@@ -1,4 +1,6 @@
 /* Write a C++ program to create class Distance with private data member’s feet & inches. Member function are get_distance() & display_distance(). Call both member functions using object of the class.*/
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 using namespace std;
 class Distance
